@@ -1,4 +1,0 @@
-env = {
-	TRANSLATOR_TEXT_SUBSCRIPTION_KEY: "8c7402fdfa834883bfbe3b47fb09c9a3",
-	AZURE_REGION: "westus2",
-}
